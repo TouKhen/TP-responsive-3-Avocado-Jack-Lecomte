@@ -358,6 +358,15 @@ footer p a{
         padding-top: 0;
         padding-bottom: 100px;    
     }
+    #icons a{
+        margin-left: 13px;
+    }
+    #icons a:first-child{
+        margin-right: 39%;
+    }
+    #icons a img{
+        width: 150%;
+    }
 }
 
 @media (max-width: 890px) and (min-width: 700px){
